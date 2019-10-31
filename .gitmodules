@@ -1,0 +1,6 @@
+[submodule "rplidar_ros"]
+	path = rplidar_ros
+	url = https://github.com/Slamtec/rplidar_ros.git
+[submodule "basicmicro_motors/src/raspberry_pi_packet_serial"]
+	path = basicmicro_motors/src/raspberry_pi_packet_serial
+	url = https://github.com/basicmicro/raspberry_pi_packet_serial.git
