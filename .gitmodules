@@ -4,3 +4,6 @@
 [submodule "basicmicro_motors/src/raspberry_pi_packet_serial"]
 	path = basicmicro_motors/src/raspberry_pi_packet_serial
 	url = https://github.com/basicmicro/raspberry_pi_packet_serial.git
+[submodule "differential-drive"]
+	path = differential-drive
+	url = https://github.com/jfstepha/differential-drive.git
