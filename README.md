@@ -1,4 +1,4 @@
-# alexanderthegreat
+# DifferentialDriveRobot
 Repository for packages intended for the small circular differential drive robot. 
 
 Visit the following websites for more details about the packages contained in this repo:
