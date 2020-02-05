@@ -6,7 +6,8 @@
     <arg name="address" default="128"/>
     <arg name="max_speed" default="2.0"/>
     <arg name="ticks_per_meter" default="4342.2"/>
-    <arg name="base_width" default="0.315"/>
+    <!--base width is wheel diameter in meters updated by AVL 2/3/20-->
+    <arg name="base_width" default="0.254"/>
     <arg name="run_diag" default="true"/>
 
     <node if="$(arg run_diag)" pkg="roboclaw_node" type="roboclaw_node.py" name="roboclaw_node">
